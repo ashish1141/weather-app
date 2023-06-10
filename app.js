@@ -12,4 +12,4 @@ forecast(address,(error,data)=>{
         return console.log(error);
     }
     console.log(data);
-})
+}) 
